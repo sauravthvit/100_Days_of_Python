@@ -9,3 +9,4 @@ else:
     print("Sorry, you need to be taller to ride it.")
     
 # == is used to check equality and = is used to assign value to the variable.
+# % is used as a remainder
