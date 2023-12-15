@@ -1,0 +1,1 @@
+Day 6 consisted of Reedborg's problems (a website that helps you practice Python through a game)
